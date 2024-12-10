@@ -1,0 +1,10 @@
+data/
+!src/data
+
+*.sh
+*.out
+*.err
+
+src/data/config.yaml
+src/data/mask_REANALYSES.py
+run_experiment.py
